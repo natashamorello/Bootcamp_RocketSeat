@@ -1,7 +1,7 @@
 // Cálculo de IMC
 // Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
 
-// Comece criando constantes para armazenar o nome, peso, altura e sexo de uma pessoa, por exemplo:
+// Comece criando constantes para armazenar o nome, peso, altura e sexo de uma pessoa.
 
 // A partir desses dados armazene em uma constante chamada imc o cálculo do índice de massa corporal definido pela fórmula abaixo:
 
