@@ -2,9 +2,9 @@
     <img alt="Launchbase" src="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/logo.svg" width="200px" />
 </h1>
 
-<h2 align="center"> Introdução à programação Web (módulo 1) </h2>
+<h2 align="center"> Introdução à programação Web (módulo 1) </h2> <br><br>
 
-<p> <img src ="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"; width="20px"; height="20px";> <strong> Desafios: </strong> </p>
+<p> <img src ="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"; width="20px"; height="20px";> <strong> Desafios: </strong> </p> <br>
 
 
 <p> <strong> Desafio 01-1. Primeiros passos com JS. </strong> </p>
