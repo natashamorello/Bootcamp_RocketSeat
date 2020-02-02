@@ -1,3 +1,3 @@
 # Bootcamp_RocketSeat
  
-Aqui estão os desafios do Bootcamp LaunchBase 2020 da RocketSeat.
+Desafio 01-1. Primeiros passos com JS
